@@ -32,6 +32,7 @@ Systems Analyst and Programmer, Brazil
 
    Worked as Support Management, requirements, development, improvements and new functionalities. 
    Member of the team responsible for implementing Agile methodology through the Excellent Engineer Program using the tools Bitbucket, TeamCity, Artifactory, uDeploy and Jira.
+
 ***
 
 
@@ -48,6 +49,7 @@ Systems Analyst and Programmer, Brazil
 ***
 
 * [**02/01/2008 - 31/10/2011 - HP- Hewllet Packard**](#)
+
    Worked as development and analysis of systems, attend of requisitions of the billing´s area, and others modules of the Telecom´s sector of NET Serviços customer. Follow up with Incident Analysis team - Install, Atlas and Billing, monitoring 5 employees and 2 trainees, using management techniques and services based on ITIL.
    Reports, analyzes and technical maintenance. I also raised a documentation on technical processes and training for new employees.
 
