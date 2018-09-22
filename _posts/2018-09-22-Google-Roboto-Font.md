@@ -16,5 +16,5 @@ To find that, I used the own Chrome inspector to debug.
 
 Besides this procdimento, I also did the configuration of ClearType just for precaution.
 
-[<img src="{{ site.baseurl }}/images/Google_Roboto.jpg" alt="" style="width: 400px;"/>]({{ site.baseurl }}/)
+[<img src="{{ site.baseurl }}/images/Google_Roboto.jpg" alt="Solved"/>]({{ site.baseurl }}/)
 -----
