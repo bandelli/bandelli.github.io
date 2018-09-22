@@ -14,4 +14,7 @@ I read some articles on the web that Google´s font  Roboto could to suffer some
 The solution that worked in my case was to find out what is the Font that was with problem (was Roboto) and delete it of my windows´s System Operation.
 To find that, I used the own Chrome inspector to debug.
 
-Besides this procdimento, I also did the configuration of ClearType just to precaution
+Besides this procdimento, I also did the configuration of ClearType just for precaution.
+
+[<img src="{{ site.baseurl }}/images/Google_Roboto.jpg" alt="" style="width: 400px;"/>]({{ site.baseurl }}/)
+-----
