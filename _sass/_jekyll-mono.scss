@@ -22,16 +22,16 @@
         a {
          color: $mono-color;
          &:hover{
-           color: darken($mono-color,20);
+           color: darken($darkGray,20);
          }
      }
  }
  
  .post-heading {
-        a {
-         color: $hl-color;
+    a {
+         color: $gray;
          &:hover{
-           color: darken($hl-color,20);
+           color: $white;
          }
      }
  }
@@ -82,6 +82,22 @@ button.button-primary:focus {
     color: #FFF;
     background-color: $mono-color;
     border-color: $mono-color; 
+}
+
+.button-secundary {
+  a {
+	color: $gray;
+	&:hover{
+	   color: $white;
+	}
+  }
+}
+    
+.button-secundary:hover,
+.button-secundary:hover,
+.button-secundary:focus,
+.button-secundary:focus {
+	text-decoration: underline; 
 }
 
 /*
