@@ -6,14 +6,15 @@ permalink: /about/
 
 ## Sumary
 
- More then 10 years of experience in Software Analysis and Development, focused mainly on Oracle PL / SQL and Java technologies.
- Knowledge of business in the areas of telecom, banking, insurance and retail.
+More then 10 years of experience in Software Analysis and Development, focused mainly on Oracle PL / SQL and Java technologies.
+Knowledge of business in the areas of telecom, banking, insurance and retail.
 
 ### Software Engineering
 * Analysis and documentation of business requirements;
 * Database Project;
 * Architectural and application modeling (UML);
 * Systems performance improvements;
+
 ### Software Development
 * Web applications using Java, JSF, Thymeleaf, PrimeFaces, Spring MVC and JDBC Template, Maven, jQuery, HTML, XML, JavaScript and CSS;
 * Experience with: Bitbucket, Jenkins, JFrog Artifactory, TeamCity, uDeploy;
@@ -21,9 +22,13 @@ permalink: /about/
 
 ## Education
 
-* Graduate in Project Development in Java with Oracle Database. University Center Claretiano. Conclusion 2013.
-* Graduated in Data Processing. Fatec. Conclusion 2008.
+ * Graduate in Project Development in Java with Oracle Database. University Center Claretiano. Conclusion 2013.
+ * Graduated in Data Processing. Fatec. Conclusion 2008.
 
+## Certifications
+ * [Agile Scrum Foundation (ASF) – Exin: Certificatenumber: 5973413.20650949](https://www.exin.com/certificate-authentication?language_content_entity=en)
+ * ITIL Foundation V.2 (2011)
+ * 1Z0-007 - Introduction to Oracle9i SQL®. (2011)
 
 ## Professional Expertise
 
