@@ -18,7 +18,7 @@ Knowledge of business in the areas of telecom, banking, insurance and retail.
 ### Software Development
 * Web applications using Java, JSF, Thymeleaf, PrimeFaces, Spring MVC and JDBC Template, Maven, jQuery, HTML, XML, JavaScript and CSS;
 * Experience with: Bitbucket, Jenkins, JFrog Artifactory, TeamCity, uDeploy;
-* SQL and PL/SQL (Tunning) development using Oracle Database: ;
+* SQL and PL/SQL (Tunning) development using Oracle Database;
 
 ## Education
 
@@ -34,7 +34,7 @@ Knowledge of business in the areas of telecom, banking, insurance and retail.
 
 * [**06/07/2015 - 06/09/2018 - Citit**](#)
 
-   Worked as Support Management, requirements, development, improvements and new functionalities. 
+   Worked as Support Management, requirements, development, improvements and new functionalities.
    Member of the team responsible for implementing Agile methodology through the Excellent Engineer Program using the tools Bitbucket, TeamCity, Artifactory, uDeploy and Jira.
 
 ***
