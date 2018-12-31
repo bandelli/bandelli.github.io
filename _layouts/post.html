@@ -7,9 +7,15 @@ layout: blog
  </div>
 
   <div class="entry">
+   
     {{ content }}
+   
+    <hr width=100% noshade>
+    <a class="button button-secundary" href="{{ site.baseurl }}/" > Return to Home </a>
+    <br>
+    
+    <div>
+      {% include disqus.html %}
+    </div>
   </div>
-
-  {% include disqus.html %}
 </article>
-
