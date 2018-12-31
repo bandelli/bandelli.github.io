@@ -4,31 +4,30 @@ title: About
 permalink: /about/
 ---
 
-- With 11 years of experience in Software Analysis and Development, focused mainly on Oracle PL / SQL and Java technologies.
-- Knowledge of business in the areas of telecom, banking, insurance and retail.
+## Sumary
 
+ More then 10 years of experience in Software Analysis and Development, focused mainly on Oracle PL / SQL and Java technologies.
+ Knowledge of business in the areas of telecom, banking, insurance and retail.
+
+### Software Engineering
+* Analysis and documentation of business requirements;
+* Database Project;
+* Architectural and application modeling (UML);
+* Systems performance improvements;
+### Software Development
+* Web applications using Java, JSF, Thymeleaf, PrimeFaces, Spring MVC and JDBC Template, Maven, jQuery, HTML, XML, JavaScript and CSS;
+* Experience with: Bitbucket, Jenkins, JFrog Artifactory, TeamCity, uDeploy;
+* SQL and PL/SQL (Tunning) development using Oracle Database: ;
 
 ## Education
 
 * Graduate in Project Development in Java with Oracle Database. University Center Claretiano. Conclusion 2013.
 * Graduated in Data Processing. Fatec. Conclusion 2008.
 
-## Roles
-
-Systems Analyst and Programmer, Brazil
-
-## Skills
-
-* **Skill 1** - Forms, Reports, PL/SQL (Tunning);
-* **Skill 2** - JSP, JDBC, Spring JDBC Template, Spring MVC, Maven, Hibernate;
-* **Skill 3** - HTML, Jquery e JavaScript;
-* **Skill 4** - Apache Tomcat e Websphere;
-* **Skill 5** - UML;
-
 
 ## Professional Expertise
 
-* [**15/07/2013 - 06/09/2018 - Citit**](#)
+* [**06/07/2015 - 06/09/2018 - Citit**](#)
 
    Worked as Support Management, requirements, development, improvements and new functionalities. 
    Member of the team responsible for implementing Agile methodology through the Excellent Engineer Program using the tools Bitbucket, TeamCity, Artifactory, uDeploy and Jira.
