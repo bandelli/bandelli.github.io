@@ -32,7 +32,7 @@ Knowledge of business in the areas of telecom, banking, insurance and retail.
 
 ## Professional Expertise
 
-* [**06/07/2015 - 06/09/2018 - Citit**](#)
+* [**06/07/2015 - 06/09/2018 - Citi**](#)
 
    Worked as Support Management, requirements, development, improvements and new functionalities.
    Member of the team responsible for implementing Agile methodology through the Excellent Engineer Program using the tools Bitbucket, TeamCity, Artifactory, uDeploy and Jira.
