@@ -4,7 +4,7 @@ title: Install Docker CE on Xubuntu
 author: Mariana Martin
 ---
 
-Installing  the latest version of Docker CE (Community Edition) on Linux Xubuntu from their official repository using their documentation.
+Installing  the latest version of Docker CE (Community Edition) on Linux Xubuntu from their official repository
 
 ---
 
