@@ -21,10 +21,10 @@ update the apt package index:
    
 Install the latest version of Docker CE and containerd:
 
-      $ sudo apt-get install docker-ce docker-ce-cli containerd.io
+    $ sudo apt-get install docker-ce docker-ce-cli containerd.io
 
 > **NOTE:** *If you want to remove an old version before installing:*
->>$ sudo apt-get remove docker docker-engine docker.io
+* $ sudo apt-get remove docker docker-engine docker.io
 
     
 
